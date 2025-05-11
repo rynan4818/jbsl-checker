@@ -105,6 +105,7 @@ def maps_rank_check(last, now)
 end
 
 def league_check(league_id)
+  mes = ''
   lastcheck_file = "#{league_id}_check.json"
   jbsl_api_url = "https://jbsl-web.herokuapp.com/leaderboard/api/#{league_id}"
   begin
