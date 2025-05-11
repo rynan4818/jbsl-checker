@@ -1,5 +1,6 @@
 # jbsl-checker
 JBSLの順位・精度変動をチェックします
+![image](https://github.com/user-attachments/assets/c2596745-808e-49c9-8445-78ea5725379e)
 
 全てのリーグ・または選択したリーグで総合順位の変動、各譜面の順位・精度変更があった場合に表示します
 
